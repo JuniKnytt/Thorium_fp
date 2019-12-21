@@ -1,0 +1,1 @@
+This mos readds in the Frost Pelter from Throium which was removed in 1.6.1.4.

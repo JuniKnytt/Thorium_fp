@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Thorium_fp\\Thorium_fp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Thorium_fp\\Thorium_fp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Thorium_fp\\Thorium_fp.csproj",
+        "projectName": "Thorium_fp",
+        "projectPath": "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Thorium_fp\\Thorium_fp.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Thorium_fp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

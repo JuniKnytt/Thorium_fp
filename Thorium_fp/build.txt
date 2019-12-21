@@ -1,0 +1,3 @@
+displayName = Readd in Frost Pelter to Thorium
+author = Juni Knytt
+version = 0.1
